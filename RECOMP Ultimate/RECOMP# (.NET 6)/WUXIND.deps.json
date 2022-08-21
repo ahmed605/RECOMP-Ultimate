@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WUXIND/1.0.0": {
+        "dependencies": {
+          "Microsoft.Windows.Full.SDK.NET": "1.0.0.0",
+          "WinRT.Runtime": "2.0.0.0"
+        },
+        "runtime": {
+          "WUXIND.dll": {}
+        }
+      },
+      "Microsoft.Windows.Full.SDK.NET/1.0.0.0": {
+        "runtime": {
+          "Microsoft.Windows.Full.SDK.NET.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "WinRT.Runtime/2.0.0.0": {
+        "runtime": {
+          "WinRT.Runtime.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WUXIND/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Windows.Full.SDK.NET/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WinRT.Runtime/2.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
